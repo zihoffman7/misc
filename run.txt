@@ -1,0 +1,23 @@
+JAVA
+
+javac *.java
+jar cfe run.jar Main *.class
+java -jar run.jar
+
+-----or-----
+
+java Main *.java
+
+
+
+C
+
+gcc -Wall -o main main.c
+clang main.c -o main
+./main
+
+
+
+PHP SERVER
+
+php -S 0.0.0.0:5000

@@ -1,6 +1,6 @@
 #############################
 ## Basic Text Adventure
-## Zachary Hoffman
+## zihoffman7
 ## Oct 29, 2020
 
 # Used to choose random element out of list
